@@ -1,7 +1,8 @@
-baseURL = "https://your-domain.example.com"
+baseURL = "https://macfinter.github.io/my-quarkus-in-action-blog/"
 languageCode = "ru-ru"
 title = "Блог по Quarkus in Action"
 theme = "tranquilpeak"
+relativeURLs = true
 
 googleAnalytics = ""
 

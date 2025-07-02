@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Блог по Quarkus in Action</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>http://localhost:1313/my-quarkus-in-action-blog/posts/</link>
     <description>Recent content in Posts on Блог по Quarkus in Action</description>
     <generator>Hugo</generator>
     <language>ru-ru</language>
     <lastBuildDate>Wed, 02 Jul 2025 13:45:05 +0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/my-quarkus-in-action-blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>01 Intro Quarkus</title>
-      <link>http://localhost:1313/posts/01-intro-quarkus/</link>
+      <link>http://localhost:1313/my-quarkus-in-action-blog/posts/01-intro-quarkus/</link>
       <pubDate>Wed, 02 Jul 2025 13:45:05 +0300</pubDate>
-      <guid>http://localhost:1313/posts/01-intro-quarkus/</guid>
+      <guid>http://localhost:1313/my-quarkus-in-action-blog/posts/01-intro-quarkus/</guid>
       <description>&lt;p&gt;Quarkus — это супер-быстрый фреймворк для Java, оптимизированный для контейнеров&amp;hellip;&lt;/p&gt;</description>
     </item>
   </channel>
