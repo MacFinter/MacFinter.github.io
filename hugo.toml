@@ -1,0 +1,9 @@
+baseURL = "https://your-domain.example.com"
+languageCode = "ru-ru"
+title = "Блог по Quarkus in Action"
+theme = "tranquilpeak"
+
+googleAnalytics = ""
+
+[params]
+subtitle = "Конспекты и примеры из книги на русском"
