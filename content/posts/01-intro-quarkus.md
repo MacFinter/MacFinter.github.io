@@ -1,6 +1,6 @@
 +++
 date = '2025-07-02T13:45:05+03:00'
-draft = true
+draft = false
 title = '01 Intro Quarkus'
 +++
 
