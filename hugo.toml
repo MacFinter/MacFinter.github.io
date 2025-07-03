@@ -1,6 +1,6 @@
-baseURL = "https://macfinter.github.io/my-quarkus-in-action-blog/"
-languageCode = "ru-ru"
-title = "Блог по Quarkus in Action"
-theme = "tranquilpeak"
+baseURL         = "https://macfinter.github.io/"
+languageCode    = "ru-ru"
+title           = "Блог по Quarkus in Action"
+theme           = "tranquilpeak"
 
-canonifyURLs = true
+canonifyURLs    = true
